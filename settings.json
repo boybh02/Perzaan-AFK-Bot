@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "VegaSMP.aternos.me",
-    "port": 35081,
+    "ip": "Hardserver_smp.aternos.me",
+    "port"24861,
     "version": "1.21.11"
   },
   "position": {
