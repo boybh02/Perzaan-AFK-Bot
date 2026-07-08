@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "skydimesmp.qzz.io",
-    "port":51997,
-    "version": "26.1.2"
+    "ip": "Hardserver_minecraft.aternos.me",
+    "port":19276,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
