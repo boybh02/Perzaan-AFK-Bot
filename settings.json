@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Hardserver_smp.aternos.me",
-    "port"18072,
+    "ip": "Hardserver_minercraft.aternos.me",
+    "port"19276,
     "version": "1.21.11"
   },
   "position": {
